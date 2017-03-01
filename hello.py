@@ -1,1 +1,1 @@
-print("My first Python pgm")
+print("My first Python program!")
