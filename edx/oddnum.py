@@ -1,2 +1,3 @@
-for i in range(1,20, 2):
+n = 20
+for i in range(1, n+1, 2):
     print(i)
