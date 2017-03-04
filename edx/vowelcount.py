@@ -1,3 +1,4 @@
+# Program to count vowels {a,e,i,o,u} in a given Sring variable.
 s = 'azcbobobegghakl'
 numVowels = 0
 for letter in s:
