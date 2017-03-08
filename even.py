@@ -1,6 +1,6 @@
-i = 1
-while i <= 5:
-    num = 2 * i
-    print(num)
-    i += 1
-print("Goodbye!")
+n = 10
+i = 0
+print("Even numbers less than ", str(n))
+while i <= n:
+    print(i)
+    i += 2
