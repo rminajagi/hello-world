@@ -1,10 +1,13 @@
 # Math operations in Python
 
-def add(a, b):
+def sum(a, b):
   return a + b
   
-def mul(a, b):
+def product(a, b):
   return a * b
   
-def diff(a, b)
+def difference(a, b)
   return a - b
+
+def abs(n):
+  return (n < 0 : -n : n)
