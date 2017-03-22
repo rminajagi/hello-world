@@ -1,6 +1,6 @@
 varA = 12
 varB = 10
-if type(varA) == str or type(varB) == str:
+if type(varA) == 'str' or type(varB) == 'str':
     print('string involved')
 elif varA > varB:
     print('bigger')
